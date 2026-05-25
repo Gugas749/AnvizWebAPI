@@ -1,0 +1,20 @@
+Copyright (c) 2026 Gugas749
+
+Permission is granted exclusively to Korporate Solutions
+(https://korporate.pt/) to use, modify, distribute, and deploy
+this software internally for business purposes.
+
+All other individuals and organizations are permitted to view
+and reference the source code for educational and non-commercial
+purposes only.
+
+Except for Korporate Solutions, no one may:
+- use this software commercially
+- redistribute this software
+- sublicense this software
+- sell this software
+- deploy this software in production
+- create derivative works for commercial purposes
+
+This software is provided "as is", without warranty of any kind,
+express or implied.
