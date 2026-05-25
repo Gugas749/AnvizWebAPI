@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Anviz-development/Anviz.SDK/Anviz.SDK.csproj" Id="30099b6a-183a-4003-8449-8f36a06462ba" />
+  <Project Path="AnvizWebSDK/AnvizWebSDK.csproj" />
+</Solution>

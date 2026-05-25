@@ -1,0 +1,16 @@
+@AnvizWebSDK_HostAddress = http://localhost:5165
+
+GET {{AnvizWebSDK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+GET {{AnvizWebSDK_HostAddress}}/devices/
+Accept: application/json
+
+GET {{AnvizWebSDK_HostAddress}}/users
+Accept: application/json
+
+GET {{AnvizWebSDK_HostAddress}}/test/
+Accept: application/json
